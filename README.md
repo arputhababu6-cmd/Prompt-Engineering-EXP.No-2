@@ -21,5 +21,6 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
-
+https://drive.google.com/file/d/1NbYuFjb-pRi5T578HZsW3dhLNhufrPkV/view?usp=sharing
 RESULT:
+Role-based and chain-of-thought prompting techniques produced the best overall summarization performance in terms of accuracy, coherence, simplicity, and user experience across the evaluated platforms.
